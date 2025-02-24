@@ -42,7 +42,7 @@ GET /finance/:userId → Fetch user's transactions
 🔗 Connect with Me
 📧 Email: abhishekpandey12121@gmail.com
 💻 LinkedIn: (https://www.linkedin.com/in/abhishek-pandey-3b395b178/)
-🌐 GitHub: [Your GitHub Profile](https://github.com/abhishekpandey12121)
+🌐 GitHub:(https://github.com/abhishekpandey12121)
 
 
 
