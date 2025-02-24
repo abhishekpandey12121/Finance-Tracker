@@ -21,7 +21,7 @@ This is the backend of a **Finance Manager** application built with **Node.js, E
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/<your-username>/finance-manager.git
+git clone https://github.com/abhishekpandey12121/finance-manager.git
 cd finance-manager/backend
 Install Dependencies
 npm install
@@ -42,7 +42,7 @@ GET /finance/:userId → Fetch user's transactions
 🔗 Connect with Me
 📧 Email: abhishekpandey12121@gmail.com
 💻 LinkedIn: (https://www.linkedin.com/in/abhishek-pandey-3b395b178/)
-🌐 GitHub: Your GitHub Profile
+🌐 GitHub: [Your GitHub Profile](https://github.com/abhishekpandey12121)
 
 
 
